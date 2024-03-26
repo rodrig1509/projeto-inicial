@@ -48,10 +48,22 @@
     padding: 0;
     box-sizing: border-box;
 }
-/* Exemplo de reset de estilos */
 
 #container{
+    background-color: #0a7dbf;
+}
+#container div{
     background-color: #0c99ea;
     width: 100%;
     margin: 0 auto;
 }
+.cabecalho{
+    background-color: rgb(43, 121, 169);
+    background-image: url("../img/peixe-1280x580.png.png");
+    background-size: contain;
+}
+h1{
+    color: azure;
+}
+}
+
