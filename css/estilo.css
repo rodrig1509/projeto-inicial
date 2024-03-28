@@ -43,9 +43,12 @@
 /* input[type="text"] {color: red;} - Este seletor estiliza todos os inputs que possuem o atributo "type" com o valor "text". */
 header{
     background-color: blue;
-    width: 100%;
-    
-
 }
 
+h1{
+    font-family:'Times New Roman', Times, serif;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
 
