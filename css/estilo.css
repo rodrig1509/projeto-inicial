@@ -41,29 +41,11 @@
 /* a[href="http://www.google.com"] {color: red;} - Este seletor estiliza todos os links que possuem o atributo "href" com o valor "http://www.google.com". */
 
 /* input[type="text"] {color: red;} - Este seletor estiliza todos os inputs que possuem o atributo "type" com o valor "text". */
-
-/* Exemplo de reset de estilos */
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-#container{
-    background-color: #0a7dbf;
-}
-#container div{
-    background-color: #0c99ea;
+header{
+    background-color: blue;
     width: 100%;
-    margin: 0 auto;
+    
+
 }
-.cabecalho{
-    background-color: rgb(43, 121, 169);
-    background-image: url("../img/peixe-1280x580.png.png");
-    background-size: contain;
-}
-h1{
-    color: azure;
-}
-}
+
 
