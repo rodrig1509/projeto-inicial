@@ -52,3 +52,6 @@ h2{
     font-family: 'Times New Roman', Times, serif;
 }
 
+nav ul li{
+    font-weight:bolder;
+}
