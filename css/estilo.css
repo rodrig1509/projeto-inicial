@@ -62,4 +62,8 @@ nav ul li{
 .conteudo{
     line-height: 1.5
 }
+form{
+    border: solid 1px gray;
+    padding: 10px;
+}
 
