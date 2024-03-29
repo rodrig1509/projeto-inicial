@@ -73,4 +73,8 @@ button{
     background-color: blue;
     color: white;
 }
+footer{
+    border-top: solid 2px red;
+
+}
 
